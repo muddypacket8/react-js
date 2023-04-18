@@ -1,13 +1,17 @@
-import logo from './logo.svg';
+import logo from './lee.png';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <div id='row'>
+          <img src={logo} className="App-logo" alt="kim" />
+        <h1 className='bee'>luffy</h1>
+        </div>
+        
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          <p>WELCOME KENYA AIRWAYS  </p>
         </p>
         <a
           className="App-link"
