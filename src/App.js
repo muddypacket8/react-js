@@ -14,6 +14,9 @@ function App() {
         
         <p>
           <p>WELCOME KENYA AIRWAYS  </p>
+          <Users name="Ben"/>
+          <Boss  name="John"/>
+
         </p>
         <a
           className="App-link"
