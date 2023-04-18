@@ -12,7 +12,7 @@ function App() {
   <a class="active" href="#home">Home</a>
   <a href="#news">News</a>
   <a href="#contact">Contact</a>
-  <a href="#about">About</a>
+  <a href="about.html">About</a>
 </div>
         <div id='row'>
           <img src={logo} className="App-logo" alt="kim" />
