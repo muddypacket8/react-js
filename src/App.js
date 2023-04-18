@@ -1,5 +1,7 @@
 import logo from './lee.png';
 import './App.css';
+import Users from './Users.js';
+import Boss from './Boss.js';
 
 function App() {
   return (
