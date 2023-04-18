@@ -15,11 +15,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.kenya-airways.com/ke/en/?gclid=EAIaIQobChMI793gs5Wz_gIV4eDmCh3DEgOkEAAYASAAEgJr7fD_BwE"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          KENYA AIRWAYS
         </a>
       </header>
     </div>
