@@ -9,11 +9,11 @@ function App() {
       <header className="App-header">
         <div id='row'>
           <img src={logo} className="App-logo" alt="kim" />
-        <h1 className='bee'>luffy</h1>
+        <h1 className='bee'>Luffy</h1>
         </div>
         
         <p>
-          <p>WELCOME KENYA AIRWAYS  </p>
+          <p>WELCOME TO KENYA AIRWAYS  </p>
           <Users name="Ben"/>
           <Boss  name="John"/>
 
